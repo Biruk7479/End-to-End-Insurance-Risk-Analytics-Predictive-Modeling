@@ -69,11 +69,12 @@ models/*.joblib
 *.h5
 *.joblib
 
-# Reports (except README)
+# Reports (except README and INTERIM_REPORT)
 reports/*.md
 reports/*.pdf
 reports/*.html
 !README.md
+!reports/INTERIM_REPORT.md
 
 # Logs
 *.log
